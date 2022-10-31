@@ -1,0 +1,3 @@
+# rhin.dev Website
+
+WIP
